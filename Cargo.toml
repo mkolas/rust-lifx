@@ -1,0 +1,6 @@
+[package]
+name = "lifx"
+version = "0.1.0"
+authors = ["Max Kolasinski <mkolas@umich.edu>"]
+
+[dependencies]
